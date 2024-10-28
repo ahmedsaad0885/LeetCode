@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee1344c8-f80e-47e0-bb4e-a7e9950a0ceb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/22_Generate_Parentheses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/739_Daily_Temperature.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +35,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.22_Generate_Parentheses.executor": "Run",
+    "Python.739_Daily_Temperature.executor": "Run",
     "Python.products_of_array_dicluding_self.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -65,12 +67,12 @@
           <line>10</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/739_Daily_Temperature.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="&#10;stack" language="Python" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>
